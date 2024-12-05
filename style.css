@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.mode{
+    background-color: black;
+    color: white;
+}
+
+#btn{
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: none;
+
+}
+
+#mode-icon{
+    font-size:20px ;
+
+}
